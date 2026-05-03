@@ -8,6 +8,15 @@
       "añoFabricacion": 2024,
       "estado": "ACTIVO",
       "ubicacion": "area sur"
+    },
+    {
+      "id": "R0002",
+      "nombre": "nuevorobot",
+      "modelo": "moderno",
+      "funcion": "poner la mesa",
+      "añoFabricacion": 2024,
+      "estado": "ACTIVO",
+      "ubicacion": "ala sur"
     }
   ]
 }
