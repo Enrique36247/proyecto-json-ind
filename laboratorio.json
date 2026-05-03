@@ -1,0 +1,13 @@
+{
+  "robots": [
+    {
+      "id": "R0001",
+      "nombre": "acebott",
+      "modelo": "chino",
+      "funcion": "aprendizaje de electronica",
+      "añoFabricacion": 2024,
+      "estado": "ACTIVO",
+      "ubicacion": "area sur"
+    }
+  ]
+}
